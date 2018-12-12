@@ -41,6 +41,7 @@ conf/nginx.conf Configuration file instance
 RTMP listens to port 1935, enabling live and hls two applications
 
 HTTP listening port 8080,
+
 localhost:8080/stat View stream status
 
 # Attention
