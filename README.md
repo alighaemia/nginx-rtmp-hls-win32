@@ -36,13 +36,13 @@ Double click nginx.exe
 
 # Description
 
-conf/nginx.conf Configuration file instance
+* conf/nginx.conf Configuration file instance
 
-RTMP listens to port 1935, enabling live and hls two applications
+* RTMP listens to port 1935, enabling live and hls two applications
 
-HTTP listening port 8080,
+* HTTP listening port 8080,
 
-localhost:8080/stat View stream status
+* localhost:8080/stat View stream status
 
 # Attention
 exec is not supported
