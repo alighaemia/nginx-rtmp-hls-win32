@@ -42,7 +42,7 @@ RTMP listens to port 1935, enabling live and hls two applications
 
 HTTP listening port 8080,
 
-* :8080/stat View stream status
+*:8080/stat View stream status
 
 # Attention
 exec is not supported
