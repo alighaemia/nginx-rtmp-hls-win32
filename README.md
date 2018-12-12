@@ -35,9 +35,13 @@ _ssl_module --with-stream_ssl_module --add-module=objs/lib/nginx-rtmp-module/
 Double click nginx.exe
 
 # Description
+
 conf/nginx.conf Configuration file instance
+
 RTMP listens to port 1935, enabling live and hls two applications
+
 HTTP listening port 8080,
+
 * :8080/stat View stream status
 
 # Attention
